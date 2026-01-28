@@ -33,11 +33,6 @@ CustomTkinter
 
 Pillow (PIL)
 
-📂 Project Structure
-budget-tracker/
-├── app.py
-├── requirements.txt
-└── README.md
 
 ***🚀 How to Run***
 
