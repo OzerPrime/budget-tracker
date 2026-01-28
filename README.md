@@ -33,6 +33,7 @@ CustomTkinter
 
 Pillow (PIL)
 
+<img width="763" height="739" alt="Ekran görüntüsü 2026-01-28 161858" src="https://github.com/user-attachments/assets/fad65d2e-5730-4863-8e88-11ff90e5ea9b" />
 
 ***🚀 How to Run***
 # Requirements
