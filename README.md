@@ -42,7 +42,7 @@ cd budget-tracker
 
 Install dependencies:
 
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 Run the application:
 
